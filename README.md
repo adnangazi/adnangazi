@@ -32,7 +32,6 @@
 <img align="left" alt="Linux" width="26px" src="https://unpkg.com/language-icons/icons/en.svg" />
 <img align="left" alt="QT Framework" width="26px" src="https://unpkg.com/language-icons/icons/it.svg" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=adnangazi&show_icons=true&locale=en&theme=dracula" alt="stats" />
 <br>
 
 ---
