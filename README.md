@@ -10,6 +10,9 @@
 - 👯 I’m looking to collaborate on stimulating projects
 - ⚡ 2022 goals: increase my abilities on Algorithms & Data Structures 
 
+<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=adnangazi&show_icons=true&locale=en&theme=dracula" alt="stats" />
+<br>
+
 ### Projects ###
 
 - [Bora Bora Fitness Club](https://github.com/adnangazi/school/tree/master/university/bachelor/third-year/first-semester/tecnologie-web/BoraBoraFitnessClub): team‑worked to design, project and develop a social gym dynamic website to track workouts, memberships, personal data and activities
