@@ -1,19 +1,16 @@
-<h1 align="center">Hi there</h1>
-<h1 align="center">I'm Adnan Latif Gazi</h1>
+<h1 align="center">Hi there!👋, I'm Adnan Latif Gazi</h1>
+<h3>Software Engineer & Computer Science Student</h3>
 
-<h3 align="center">Software Engineer & Computer Science Student</h3>
+- 🌱 I’m studying Computer Science at the University of Padua
+- 🔭 I’m working on academic projects
+- 📄 I'm learning Software Engineering and Programming Paradigms
+- 👯 I’m looking to collaborate on stimulating projects
+- ⚡ 2022 goals: increase my abilities on Algorithms & Data Structures 
 
-<img align="right" alt="skills" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnangazi&show_icons=true&locale=en&layout=compact&theme=dracula" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnangazi&show_icons=true&locale=en&theme=dracula" alt="stats" />
+### Projects ###
 
-<br>
-
-- 🔭 I’m studying Computer Science at the University of Padua
-- 🌱 I’m working on academic projects
-- 👯 I’m studying 
-- ⚡ 2022 goals: learn more about Algorithms & Data Structures 
-
----
+- [Bora Bora Fitness Club](https://github.com/adnangazi/school/tree/master/university/bachelor/third-year/first-semester/tecnologie-web/BoraBoraFitnessClub): team‑worked to design, project and develop a social gym dynamic website to track workouts, memberships, personal data and activities
+- [GoFlex](https://github.com/adnangazi/school/tree/master/university/bachelor/second-year/first-semester/programmazione-ad-oggetti/GoFlex): designed, projected and developed a fitness desktop application to track workouts and physical activities details
 
 ### Skills: ###
 
@@ -32,17 +29,6 @@
 <img align="left" alt="Linux" width="26px" src="https://unpkg.com/language-icons/icons/en.svg" />
 <img align="left" alt="QT Framework" width="26px" src="https://unpkg.com/language-icons/icons/it.svg" />
 
-<br>
-
----
-
-### Projects ###
-
-- [Bora Bora Fitness Club](https://github.com/adnangazi/school/tree/master/university/bachelor/third-year/first-semester/tecnologie-web/BoraBoraFitnessClub): team‑worked to design, project and develop a social gym dynamic website to track workouts, memberships, personal data and activities
-- [GoFlex](https://github.com/adnangazi/school/tree/master/university/bachelor/second-year/first-semester/programmazione-ad-oggetti/GoFlex): designed, projected and developed a fitness desktop application to track workouts and physical activities details
-
----
-
 ### Contact me ###
 [<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="codeSTACKr | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -50,10 +36,12 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-
 <!-- variables -->
 [gmail]: mailto:adnangazi.ag@gmail.com
 [website]: https://adnangazi.github.io/
 [linkedin]: https://www.linkedin.com/in/adnanlatifgazi/
 [instagram]: https://www.instagram.com/iamadnangazi/
 [facebook]: https://www.facebook.com/people/Adnan-Latif-Gazi/100006788295938/
+
+<img align="right" alt="skills" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnangazi&show_icons=true&locale=en&layout=compact&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnangazi&show_icons=true&locale=en&theme=dracula" alt="stats" />
