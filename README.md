@@ -29,6 +29,8 @@
 <img align="left" alt="Linux" width="26px" src="https://unpkg.com/language-icons/icons/en.svg" />
 <img align="left" alt="QT Framework" width="26px" src="https://unpkg.com/language-icons/icons/it.svg" />
 
+<br>
+
 ### Contact me ###
 [<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="codeSTACKr | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -42,6 +44,8 @@
 [linkedin]: https://www.linkedin.com/in/adnanlatifgazi/
 [instagram]: https://www.instagram.com/iamadnangazi/
 [facebook]: https://www.facebook.com/people/Adnan-Latif-Gazi/100006788295938/
+
+<br>
 
 <p><img align="right" alt="skills" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnangazi&show_icons=true&locale=en&layout=compact&theme=dracula" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=adnangazi&show_icons=true&locale=en&theme=dracula" alt="stats" /></p>
