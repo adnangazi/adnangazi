@@ -15,9 +15,6 @@
 - [Bora Bora Fitness Club](https://github.com/adnangazi/school/tree/master/university/bachelor/third-year/first-semester/tecnologie-web/BoraBoraFitnessClub): team‑worked to design, project and develop a social gym dynamic website to track workouts, memberships, personal data and activities
 - [GoFlex](https://github.com/adnangazi/school/tree/master/university/bachelor/second-year/first-semester/programmazione-ad-oggetti/GoFlex): designed, projected and developed a fitness desktop application to track workouts and physical activities details
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=adnangazi&show_icons=true&locale=en&theme=dracula" alt="stats" />
-<br>
-
 ### Skills: ###
 
 <img align="left" alt="C++" width="26px" src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png" />
@@ -35,6 +32,7 @@
 <img align="left" alt="Linux" width="26px" src="https://unpkg.com/language-icons/icons/en.svg" />
 <img align="left" alt="QT Framework" width="26px" src="https://unpkg.com/language-icons/icons/it.svg" />
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=adnangazi&show_icons=true&locale=en&theme=dracula" alt="stats" />
 <br>
 
 ---
