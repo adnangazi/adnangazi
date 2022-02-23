@@ -43,5 +43,5 @@
 [instagram]: https://www.instagram.com/iamadnangazi/
 [facebook]: https://www.facebook.com/people/Adnan-Latif-Gazi/100006788295938/
 
-<img align="right" alt="skills" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnangazi&show_icons=true&locale=en&layout=compact&theme=dracula" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnangazi&show_icons=true&locale=en&theme=dracula" alt="stats" />
+<p><img align="right" alt="skills" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnangazi&show_icons=true&locale=en&layout=compact&theme=dracula" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=adnangazi&show_icons=true&locale=en&theme=dracula" alt="stats" /></p>
