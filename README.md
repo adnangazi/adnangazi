@@ -49,7 +49,3 @@
 [linkedin]: https://www.linkedin.com/in/adnanlatifgazi/
 [instagram]: https://www.instagram.com/iamadnangazi/
 [facebook]: https://www.facebook.com/people/Adnan-Latif-Gazi/100006788295938/
-
-<br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnangazi&show_icons=true&locale=en&theme=dracula" alt="stats" /></p>
