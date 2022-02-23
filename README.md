@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!👋, I'm Adnan Latif Gazi</h1>
 <h3>Software Engineer & Computer Science Student</h3>
 
-<img align="left" alt="skills" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnangazi&show_icons=true&locale=en&layout=compact&theme=dracula" />
+<img align="right" alt="skills" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnangazi&show_icons=true&locale=en&layout=compact&theme=dracula" />
 <br>
 
 - 🌱 I’m studying Computer Science at the University of Padua
