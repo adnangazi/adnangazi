@@ -1,6 +1,9 @@
 <h1 align="center">Hi there!👋, I'm Adnan Latif Gazi</h1>
 <h3>Software Engineer & Computer Science Student</h3>
 
+<img align="left" alt="skills" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnangazi&show_icons=true&locale=en&layout=compact&theme=dracula" />
+<br>
+
 - 🌱 I’m studying Computer Science at the University of Padua
 - 🔭 I’m working on academic projects
 - 📄 I'm learning Software Engineering and Programming Paradigms
@@ -30,6 +33,8 @@
 <img align="left" alt="QT Framework" width="26px" src="https://unpkg.com/language-icons/icons/it.svg" />
 
 <br>
+
+---
 
 ### Contact me ###
 [<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
