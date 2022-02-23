@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!👋, I'm Adnan Latif Gazi</h1>
 <h3>Software Engineer & Computer Science Student</h3>
 
-<img align="right" alt="skills" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnangazi&show_icons=true&locale=en&layout=compact&theme=dracula" />
+<img align="right" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnangazi&show_icons=true&locale=en&layout=compact&theme=dracula" />
 <br>
 
 - 🌱 I’m studying Computer Science at the University of Padua
@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on stimulating projects
 - ⚡ 2022 goals: increase my abilities on Algorithms & Data Structures 
 
-<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=adnangazi&show_icons=true&locale=en&theme=dracula" alt="stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=adnangazi&show_icons=true&locale=en&theme=dracula" alt="stats" />
 <br>
 
 ### Projects ###
