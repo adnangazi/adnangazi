@@ -47,5 +47,5 @@
 
 <br><br>
 
-<p><img align="left" alt="skills" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnangazi&show_icons=true&locale=en&layout=compact&theme=dracula" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnangazi&show_icons=true&locale=en&theme=dracula" alt="stats" /></p>
+<p><img align="left" alt="skills" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnangazi&show_icons=true&locale=en&layout=compact&theme=dracula" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnangazi&show_icons=true&locale=en&theme=dracula" alt="stats" /></p>
