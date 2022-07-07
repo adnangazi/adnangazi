@@ -63,10 +63,10 @@ Leveraged knowledge: Java, JavaScript, HTML, CSS, YouTube API, SpringBoot, Git, 
 [<img align="left" alt="Resume | Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/letterboxd.svg"/>][resume]<br>
 
 [gmail]: mailto:adnangazi.ag@gmail.com
-[website]: https://adnangazi.github.io/
-[linkedin]: https://www.linkedin.com/in/adnanlatifgazi/
-[instagram]: https://www.instagram.com/iamadnangazi/
-[facebook]: https://www.facebook.com/people/Adnan-Latif-Gazi/100006788295938/
+[website]: https://adnangazi.github.io
+[linkedin]: https://www.linkedin.com/in/adnanlatifgazi
+[instagram]: https://www.instagram.com/iamadnangazi
+[facebook]: https://www.facebook.com/people/Adnan-Latif-Gazi/100006788295938
 [telegram]: https://t.me/iamadnangazi
 [resume]: https://adnangazi.github.io/resources/resume.pdf
 
