@@ -1,11 +1,11 @@
 <h1 align="center">Hi there!👋🏿<br>I'm Adnan Latif Gazi</h1>
 <h3>Software Developer Engineer & Computer Science Student</h3>
 
-- 🌱 I’m studying Computer Science at the University of Padua
-- 🔭 I’m working on personal projects
-- 📄 I'm learning Software Engineering and Software Development
-- 👯 I’m looking to collaborate on stimulating jobs
-- ⚡ Current year goals: increase my abilities on Algorithms & Data Structures<br>
+- 🌱 I’m a Computer Science student at the University of Padua
+- 🔭 I’m working on projects and attending courses to enhance my skills
+- 📄 I'm very motivated and a fast learner
+- ⚡ I'm currently looking for Software Developer Engineer work opportunities to boost my career
+- 👯 I’m passionate about Software Engineering, Software Development (especially Front-end), Artificial Intelligence, Data Science, and Blockchain<br>
 
 ---
 
