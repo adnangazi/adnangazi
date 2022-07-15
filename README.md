@@ -61,6 +61,7 @@ Leveraged knowledge: Java, JavaScript, HTML, CSS, YouTube API, SpringBoot, Git, 
 [<img align="left" alt="Facebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
 [<img align="left" alt="Telegram | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>][telegram]
 [<img align="left" alt="Hackerrank | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"/>][hackerrank]
+[<img align="left" alt="Leetcode | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/>][leetcode]
 [<img align="left" alt="Resume | Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/letterboxd.svg"/>][resume]<br>
 
 [gmail]: mailto:adnangazi.ag@gmail.com
@@ -70,6 +71,7 @@ Leveraged knowledge: Java, JavaScript, HTML, CSS, YouTube API, SpringBoot, Git, 
 [facebook]: https://www.facebook.com/people/Adnan-Latif-Gazi/100006788295938
 [telegram]: https://t.me/iamadnangazi
 [hackerrank]: https://www.hackerrank.com/adnangazi
+[leetcode]: https://leetcode.com/adnangazi
 [resume]: https://adnangazi.github.io/resources/resume.pdf
 
 ---
