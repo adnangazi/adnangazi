@@ -1,11 +1,11 @@
-<h1 align="center">Hi there!👋, I'm Adnan Latif Gazi</h1>
-<h3>Software Engineer & Computer Science Student</h3>
+<h1 align="center">Hi there!👋🏿<br>I'm Adnan Latif Gazi</h1>
+<h3>Software Developer Engineer & Computer Science Student</h3>
 
 - 🌱 I’m studying Computer Science at the University of Padua
-- 🔭 I’m working on academic projects
-- 📄 I'm learning Software Engineering and Programming Paradigms
-- 👯 I’m looking to collaborate on stimulating projects
-- ⚡ 2022 goals: increase my abilities on Algorithms & Data Structures<br>
+- 🔭 I’m working on personal projects
+- 📄 I'm learning Software Engineering and Software Development
+- 👯 I’m looking to collaborate on stimulating jobs
+- ⚡ Current year goals: increase my abilities on Algorithms & Data Structures<br>
 
 ---
 
@@ -60,6 +60,7 @@ Leveraged knowledge: Java, JavaScript, HTML, CSS, YouTube API, SpringBoot, Git, 
 [<img align="left" alt="Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 [<img align="left" alt="Facebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
 [<img align="left" alt="Telegram | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>][telegram]
+[<img align="left" alt="Hackerrank | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"/>][hackerrank]
 [<img align="left" alt="Resume | Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/letterboxd.svg"/>][resume]<br>
 
 [gmail]: mailto:adnangazi.ag@gmail.com
@@ -68,6 +69,7 @@ Leveraged knowledge: Java, JavaScript, HTML, CSS, YouTube API, SpringBoot, Git, 
 [instagram]: https://www.instagram.com/iamadnangazi
 [facebook]: https://www.facebook.com/people/Adnan-Latif-Gazi/100006788295938
 [telegram]: https://t.me/iamadnangazi
+[hackerrank]: https://www.hackerrank.com/adnangazi
 [resume]: https://adnangazi.github.io/resources/resume.pdf
 
 ---
