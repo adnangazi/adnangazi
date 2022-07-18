@@ -44,6 +44,9 @@ Leveraged knowledge: Java, JavaScript, HTML, CSS, YouTube API, SpringBoot, Git, 
 ### Technologies ###
 <img align="left" alt="Git" width="26px" src="https://github.com/github/explore/blob/main/topics/git/git.png"/>
 <img align="left" alt="QT Framework" width="26px" src="https://github.com/github/explore/blob/main/topics/qt/qt.png"/>
+<img align="left" alt="Truffle suite" width="26px" src="https://trufflesuite.com/assets/logo.png"/>
+<img align="left" alt="Infura" width="26px" src="https://avatars.githubusercontent.com/u/20999355?s=200&v=4"/>
+<img align="left" alt="MetaMask" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg"/>
 <img align="left" alt="Windows" width="26px" src="https://github.com/github/explore/blob/main/topics/windows/windows.png"/>
 <img align="left" alt="Linux" width="26px" src="https://github.com/github/explore/blob/main/topics/linux/linux.png"/><br>
 
