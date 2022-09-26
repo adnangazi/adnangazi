@@ -1,30 +1,30 @@
 <h1 align="center">Hi there!👋🏿<br>I'm Adnan Latif Gazi</h1>
 <h3>Software Developer Engineer & Computer Science Student</h3>
 
-- 🌱 I’m a Computer Science student at the University of Padua
-- 🔭 I’m working on projects and attending courses to enhance my skills
-- 📄 I'm very motivated and a fast learner
-- ⚡ I'm currently looking for Software Developer Engineer work opportunities to boost my career
-- 👯 I’m passionate about Software Engineering, Software Development (especially Front-end), Artificial Intelligence, Data Science, and Blockchain<br>
+- 🌱 I’m a Computer Science student at the University of Padua.
+- 🔭 I’m working on projects and attending courses to enhance my skills.
+- 📄 I'm very motivated and a fast learner.
+- ⚡ I'm currently looking for Software Developer Engineer work opportunities to boost my career.
+- 👯 I’m passionate about Software Engineering, Software Development (especially Front-end), Artificial Intelligence, Data Science, and Blockchain.<br>
 
 ---
 
 ### Projects ###
 - [AlphaNotary](https://github.com/adnangazi/alpha-notary)<br>
-Designed, developed, and administered a Blockchain Notarization DApp to manage documents by creating, notarizing, and monitoring NFTs<br>
-Leveraged knowledge: HMTL, CSS, JavaScript, Node.js, Solidity, Bootstrap, Web3.js, Git, Truffle Suite, Infura, MetaMask, Windows, and Linux
+Designed, developed, and administered a Blockchain Notarization DApp to manage documents by creating, notarizing, and monitoring NFTs.<br>
+Leveraged knowledge: HMTL, CSS, JavaScript, Node.js, Solidity, Bootstrap, Web3.js, Git, Truffle Suite, Infura, MetaMask, Windows, and Linux.
 
-- [Bora Bora Fitness Club](https://github.com/adnangazi/school/tree/master/university/bachelor/third-year/first-semester/tecnologie-web/BoraBoraFitnessClub)<br>
-Team‑worked to design, project and develop a social gym dynamic website to track workouts, memberships, personal data and activities<br>
-Leveraged knowledge: HTML, CSS, SQL, PHP, JavaScript, Git, Windows, and Linux
+- [Bora Bora Fitness Club](https://github.com/adnangazi/school/tree/master/university/bachelor/third-year/first-semester/tecnologie-web/BoraBoraFitnessClub).<br>
+Team‑worked to design, project and develop a social gym dynamic website to track workouts, memberships, personal data and activities.<br>
+Leveraged knowledge: HTML, CSS, SQL, PHP, JavaScript, Git, Windows, and Linux.
 
 - [GoFlex](https://github.com/adnangazi/school/tree/master/university/bachelor/second-year/first-semester/programmazione-ad-oggetti/GoFlex)<br>
-Designed, projected and developed a fitness desktop application to track workouts and physical activities details<br>
-Leveraged knowledge: C++, QT Framework, Git, Windows, and Linux
+Designed, projected and developed a fitness desktop application to track workouts and physical activities details.<br>
+Leveraged knowledge: C++, QT Framework, Git, Windows, and Linux.
 
 - [I Fix It For YouTube](https://github.com/adnangazi/school/tree/master/high-school/fourth-year/second-semester/tpsit/IFIYT)<br>
-Team‑worked to design, project, and develop a voice assistant service website to use YouTube with voice commands<br>
-Leveraged knowledge: Java, JavaScript, HTML, CSS, YouTube API, SpringBoot, Git, Windows, and Linux<br>
+Team‑worked to design, project, and develop a voice assistant service website to use YouTube with voice commands.<br>
+Leveraged knowledge: Java, JavaScript, HTML, CSS, YouTube API, SpringBoot, Git, Windows, and Linux.<br>
 
 ---
 
